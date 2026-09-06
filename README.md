@@ -150,7 +150,7 @@ Dataset](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
 
 ## Dataset Preview
 
-`<img src="Images/dataset_preview.png" alt="Airbnb Dataset Preview" width="100%">`{=html}
+![Airbnb Dataset Preview](images/dataset_preview.png)
 
 ------------------------------------------------------------------------
 
@@ -165,7 +165,7 @@ alongside review-level activity.
 The model was designed to support both marketplace-level analysis and
 detailed customer review analysis.
 
-`<img src="Images/data_model.png" alt="Power BI Data Model" width="100%">`{=html}
+![Power BI Data Model](images/data_model.png)
 
 ------------------------------------------------------------------------
 
@@ -307,7 +307,7 @@ analysis, including:
 These fields were particularly important for building the
 **review-frequency** and **seasonality** analyses.
 
-`<img src="Images/dax_analysis.png" alt="DAX Calculations and Analytical Fields" width="100%">`{=html}
+![DAX Calculations and Analytical Fields](images/dax_analysis.png)
 
 ------------------------------------------------------------------------
 
@@ -335,7 +335,7 @@ It includes:
 -   Market share by city
 -   Average pricing
 
-`<img src="Images/overview.png" alt="Airbnb Global Performance Overview" width="100%">`{=html}
+![Airbnb Global Performance Overview](images/overview.png)
 
 ------------------------------------------------------------------------
 
@@ -358,7 +358,7 @@ The analysis includes:
 The dashboard allows overall ratings to be examined alongside the
 individual dimensions contributing to guest satisfaction.
 
-`<img src="Images/ratings.png" alt="Airbnb Ratings Analysis" width="100%">`{=html}
+![Airbnb Ratings Analysis](images/ratings.png)
 
 ------------------------------------------------------------------------
 
@@ -378,7 +378,7 @@ The analysis includes:
 The review-frequency visualization uses cumulative analysis to
 understand how reviewer activity is distributed across customers.
 
-`<img src="Images/reviews.png" alt="Airbnb Reviews Analysis" width="100%">`{=html}
+![Airbnb Reviews Analysis](images/reviews.png)
 
 ------------------------------------------------------------------------
 
@@ -526,11 +526,11 @@ complete files are hosted externally.
 ### 📊 Power BI Dashboard
 
 🔗 **[Download Power BI Dashboard
-(.pbix)][(https://drive.google.com/drive/folders/10aku-xAkG_cbqWI7JWyg9QRYYJxTRwI8?usp=sharing)](https://drive.google.com/file/d/1HuSs8TTBmUzy8C6Tp2DG09vaYdrCmwxH/view?usp=sharing)]**
+(.pbix)][(https://drive.google.com/file/d/1HuSs8TTBmUzy8C6Tp2DG09vaYdrCmwxH/view?usp=drive_link)]**
 
 ### 📁 Project Datasets
 
-🔗 **[Access Project Datasets][(https://drive.google.com/drive/folders/1KIa9Hq4CCvPmAxcjQuYo3S4b0doIILWY?usp=sharing)]**
+🔗 **[Access Project Datasets][https://drive.google.com/drive/folders/1KIa9Hq4CCvPmAxcjQuYo3S4b0doIILWY?usp=drive_link]**
 
 > The `.pbix` file requires **Power BI Desktop** to open and interact
 > with the dashboard.
