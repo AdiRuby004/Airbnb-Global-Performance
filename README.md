@@ -150,7 +150,7 @@ Dataset](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
 
 ## Dataset Preview
 
-`<img src="images/dataset_preview.png" alt="Airbnb Dataset Preview" width="100%">`{=html}
+`<img src="Images/dataset_preview.png" alt="Airbnb Dataset Preview" width="100%">`{=html}
 
 ------------------------------------------------------------------------
 
@@ -165,7 +165,7 @@ alongside review-level activity.
 The model was designed to support both marketplace-level analysis and
 detailed customer review analysis.
 
-`<img src="images/data_model.png" alt="Power BI Data Model" width="100%">`{=html}
+`<img src="Images/data_model.png" alt="Power BI Data Model" width="100%">`{=html}
 
 ------------------------------------------------------------------------
 
@@ -307,7 +307,7 @@ analysis, including:
 These fields were particularly important for building the
 **review-frequency** and **seasonality** analyses.
 
-`<img src="images/dax_analysis.png" alt="DAX Calculations and Analytical Fields" width="100%">`{=html}
+`<img src="Images/dax_analysis.png" alt="DAX Calculations and Analytical Fields" width="100%">`{=html}
 
 ------------------------------------------------------------------------
 
@@ -335,7 +335,7 @@ It includes:
 -   Market share by city
 -   Average pricing
 
-`<img src="images/overview.png" alt="Airbnb Global Performance Overview" width="100%">`{=html}
+`<img src="Images/overview.png" alt="Airbnb Global Performance Overview" width="100%">`{=html}
 
 ------------------------------------------------------------------------
 
@@ -358,7 +358,7 @@ The analysis includes:
 The dashboard allows overall ratings to be examined alongside the
 individual dimensions contributing to guest satisfaction.
 
-`<img src="images/ratings.png" alt="Airbnb Ratings Analysis" width="100%">`{=html}
+`<img src="Images/ratings.png" alt="Airbnb Ratings Analysis" width="100%">`{=html}
 
 ------------------------------------------------------------------------
 
@@ -378,7 +378,7 @@ The analysis includes:
 The review-frequency visualization uses cumulative analysis to
 understand how reviewer activity is distributed across customers.
 
-`<img src="images/reviews.png" alt="Airbnb Reviews Analysis" width="100%">`{=html}
+`<img src="Images/reviews.png" alt="Airbnb Reviews Analysis" width="100%">`{=html}
 
 ------------------------------------------------------------------------
 
