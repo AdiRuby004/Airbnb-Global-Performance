@@ -384,14 +384,13 @@ understand how reviewer activity is distributed across customers.
 
 # 📌 Dashboard Snapshot
 
-  Metric           Value
-  ------------ ---------
-  Listings       279,712
-  Cities              10
-  Hosts          182,024
-  Properties         144
-  Reviews        5.373M+
-
+| Metric | Value |
+|---|---:|
+| Listings | 2,79,712 |
+| Cities | 10 |
+| Hosts | 1,82,024 |
+| Properties | 144 |
+| Reviews | 5,373K+ |
 ------------------------------------------------------------------------
 
 # 💡 Key Insights
